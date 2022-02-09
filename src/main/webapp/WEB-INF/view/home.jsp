@@ -21,7 +21,18 @@
 	</p>
 
 	</hr>
-
+    <!-- Add a link to print to / leader... this is for the managers -->
+	<p>
+		<a href="${pageContext.request.contextPath}/leaders">LeaderShip Meeting</a>
+		(Only for Manager peeps)
+	</p>
+	
+	<!-- Add a link to print to / systems... this is for the managers -->
+	<p>
+		<a href="${pageContext.request.contextPath}/systems">IT Systems Meeting</a>
+		(Only for Admin peeps)
+	</p>
+	<hr>
 	<!-- Add a logout button -->
 	<form:form action="${pageContext.request.contextPath}/logout"
 		method="POST">
