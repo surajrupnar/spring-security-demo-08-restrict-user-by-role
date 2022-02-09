@@ -10,7 +10,7 @@
 	<h2>luv2code Systems Home page</h2>
 	<hr>
 	<p>
-		We have our aannual Holiday in Caribbean Cruise coming up! Register Now
+		We have our aannual Holiday in Caribbean Cruise coming up Register Now!
 		<br>
 		Keep this trip a secret don't till the regular employee LOL :)
 	</p>
