@@ -14,9 +14,16 @@ public class LoginController {
 		return "fancy-login";
 	}
 	
+	//add mapping for authenticateTheUser for test by Krushna and me not working
 	@PostMapping("/authenticateTheUser")
 	public String showMyLoginPage1(@RequestBody Object object) {
 		System.out.println("ssssssssssssssssssssssssssssssssss");
 		return "hin";
+	}
+	
+	//add Mapping for access-denied
+	@GetMapping("/access-denied")
+	public String showAccessDeniedPage() {
+		return "access-denied";
 	}
 }

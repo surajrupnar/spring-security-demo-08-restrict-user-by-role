@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>spring-security-demo-08-restrict-user-by-role</name>
+	<name>spring-security-demo-09-restrict-user-by-role-access-denied</name>
 	<comment></comment>
 	<projects>
 	</projects>
